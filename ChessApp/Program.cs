@@ -1,10 +1,11 @@
-﻿internal class Program
+﻿using ChessApp.tabuleiro;
+
+internal class Program
 
 {
     private static void Main(string[] args)
     {
-      Posicao posicao = new Posicao(3, 4);
-        Console.WriteLine(posicao);
+        Tabuleiro tab = new Tabuleiro(8, 8);
 
       
     }
