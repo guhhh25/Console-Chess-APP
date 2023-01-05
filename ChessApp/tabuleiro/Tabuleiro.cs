@@ -17,7 +17,14 @@ namespace ChessApp.tabuleiro
         {
             this.Linha = linha;
             this.Colunas = coluna;
+            this.Pecas = new Peca[Linha, Colunas]; //Matriz
         } 
+
+        public Peca peca(int Linha, int Coluna)
+        {
+            return Pecas[Linha, Coluna];   // Return the X,Y piece position
+        }
+    
     }
 
 }
