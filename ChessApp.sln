@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessApp", "ChessApp\ChessApp.csproj", "{CE132754-C053-4977-AEA5-E93D8C7DE09F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE132754-C053-4977-AEA5-E93D8C7DE09F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE132754-C053-4977-AEA5-E93D8C7DE09F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE132754-C053-4977-AEA5-E93D8C7DE09F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE132754-C053-4977-AEA5-E93D8C7DE09F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B52F9F5F-6F25-4D3B-9B4A-43E08B352EC7}
+	EndGlobalSection
+EndGlobal
